@@ -1,4 +1,4 @@
-# Control de colores verde y rojo de la bandera de México
+# 1.4 Práctica integradora Bandera de México (1.1 + 1.2)
  # Instrucción 1
 Realiza lo que se pide en la siguiente imagen.
  # Instrucción 2
